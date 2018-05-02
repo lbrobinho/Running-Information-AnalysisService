@@ -1,0 +1,8 @@
+/home/vagrant/workspace/running-location-service/src/main/java/demo/domain/Location.java
+/home/vagrant/workspace/running-location-service/src/main/java/demo/rest/RunningBulkUploadController.java
+/home/vagrant/workspace/running-location-service/src/main/java/demo/service/LocationService.java
+/home/vagrant/workspace/running-location-service/src/main/java/demo/service/impl/LocationServiceImpl.java
+/home/vagrant/workspace/running-location-service/src/main/java/demo/domain/UnitInfo.java
+/home/vagrant/workspace/running-location-service/src/main/java/demo/domain/MedicalInfo.java
+/home/vagrant/workspace/running-location-service/src/main/java/demo/RunningLocationServiceApplication.java
+/home/vagrant/workspace/running-location-service/src/main/java/demo/domain/LocationRepository.java
